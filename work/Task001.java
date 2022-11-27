@@ -2,7 +2,7 @@ package work;
 
 import java.util.ArrayList;
 
-public class asd {
+public class Task001 {
 
     static ArrayList<String> arr = new ArrayList<>();
 
