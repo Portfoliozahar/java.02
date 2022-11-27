@@ -3,7 +3,7 @@ package work;
 import java.util.Arrays;
  
 
-public class task003 {
+public class Task003 {
     
     public static int[] A = {19, -123, 823, 15, 7, -6, 1, 5, -6, 0};    
     
